@@ -1,4 +1,4 @@
-# ira144.github.io![a](https://github.com/user-attachments/assets/d2108728-d414-4091-ae3a-89b6e5271580)
+# ira144.github.io
 [style3.css](https://github.com/user-attachments/files/23483801/style3.css)
 [style2.css](https://github.com/user-attachments/files/23483800/style2.css)
 [style.css](https://github.com/user-attachments/files/23483799/style.css)
